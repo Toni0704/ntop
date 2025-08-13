@@ -19,3 +19,10 @@ Mass: 5.1311
 PressureDrop: 1363.0236
 SurfaceArea: 2260.4712
 Overall RMSE: 1320.0615
+
+--- MultiHead NN Results ---
+AvgVelocity: 89.7954
+Mass: 11.5780
+PressureDrop: 2036.9050
+Surface Area: 20977.0244
+Overall RMSE: 10537.9402
