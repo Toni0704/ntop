@@ -28,13 +28,15 @@ Design exploration and optimization using surrogate physics models (neural-netwo
 ```sh
 pip install -r requirements.txt
 ```
+2. Open [code.ipynb](code.ipynb) in Jupyter or VS Code.  
+    The notebook can be easily run for both model prediction and inverse design optimization by loading the best pretrained model automatically.
 
 ---
 
 ## Team IITD 👥
 
-- Rishabh Jain
-- Shiv Ratn
+- [Rishabh Jain](https://github.com/Toni0704)
+- [Shiv Ratn](https://github.com/ShivRatn)
 
 ---
 
