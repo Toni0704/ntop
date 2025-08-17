@@ -8,21 +8,21 @@
             "name": "Cell Size X",
             "type": "real",
             "units": "mm",
-            "value": 21.411656
+            "value": 22.495712
         },
         {
             "description": "",
             "name": "Cell Size Y/Z",
             "type": "real",
             "units": "mm",
-            "value": 20.628295 
+            "value": 20.187850
         },
         {
             "description": "",
             "name": "Inlet Velocity",
             "type": "real",
             "units": "mm*s^-1",
-            "value": 3168.3
+            "value": 3203.5
         }
     ],
     "title": "Simple Heat Exchanger"
