@@ -1,0 +1,35 @@
+{
+  "optimal_x_cell": 15.242489359752799,
+  "optimal_yz_cell": 24.988591755113575,
+  "optimal_surface_area": 23613.349609375,
+  "recommended_inlet_velocity": 2736.180904522613,
+  "expected_avg_velocity": 575.8697509765625,
+  "expected_pressure_drop": 6244.9970703125,
+  "feasible_velocity_range": {
+    "min": 2500.0,
+    "max": 2972.361809045226,
+    "count": 95
+  },
+  "optimization_method": "Differential Evolution",
+  "run_id": 24,
+  "feasible_count": 95,
+  "feasible_rate": 0.475,
+  "optimization_date": "2025-08-17T17:53:15.898814",
+  "constraints": {
+    "max_mass": 125.0,
+    "max_pressure_drop": 8000.0,
+    "min_avg_velocity": 520.0,
+    "x_cell_bounds": [
+      10.0,
+      25.0
+    ],
+    "yz_cell_bounds": [
+      10.0,
+      25.0
+    ],
+    "inlet_velocity_bounds": [
+      2500.0,
+      3500.0
+    ]
+  }
+}
