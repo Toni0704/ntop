@@ -5,7 +5,6 @@ Design exploration and optimization using surrogate physics models (neural-netwo
 ---
 
 
-<br>
 
 <p align="center" width="90%">
     <img src="image.png" alt="alt text" style="width:90%;">
