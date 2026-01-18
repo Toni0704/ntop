@@ -1,4 +1,4 @@
-# nTop Hackathon 🍵
+# Accelarating Design Exploration using Surrogate Physics-Guided Models 🍵
 
 Design exploration and optimization using surrogate physics models (neural-network-based). This repo provides two surrogate models and a two-stage inverse-design optimizer that finds cell sizes and inlet velocities satisfying performance constraints.
 
