@@ -43,6 +43,7 @@ pip install -r requirements.txt
 
 - [Rishabh Jain](https://github.com/Toni0704)
 - [Shiv Ratn](https://github.com/ShivRatn)
+- Advisor: [Prof. Rajdip Nayek](https://github.com/coursesAM)
 
 ---
 
